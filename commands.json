@@ -12,5 +12,12 @@
     "function": "funcao",
     "args": "",
     "status": "success"
+  },
+  {
+    "timestamp": "2026-05-12T20:14:09.664Z",
+    "module": "123",
+    "function": "funcao",
+    "args": "",
+    "status": "success"
   }
 ]
