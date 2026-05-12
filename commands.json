@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12T20:13:31.245Z",
-    "module": "123",
-    "function": "SSP",
-    "args": "",
-    "status": "success"
-  },
-  {
-    "timestamp": "2026-05-12T20:13:58.349Z",
-    "module": "modulo",
-    "function": "funcao",
-    "args": "",
-    "status": "success"
-  },
-  {
-    "timestamp": "2026-05-12T20:14:09.664Z",
-    "module": "123",
-    "function": "funcao",
-    "args": "",
-    "status": "success"
-  },
-  {
     "timestamp": "2026-05-12T20:20:30.268Z",
     "module": "96288911777671",
     "function": "SSP",
